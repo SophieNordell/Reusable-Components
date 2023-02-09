@@ -66,7 +66,7 @@ function App() {
         />
       </div>
       <div>
-        <div className="flex p-14 justify-center flex-col">
+        <div className="flex p-10 justify-center flex-col">
           <h1 className="flex justify-center pt-10 text-lg font-semibold text-gray-600">
             Two Modals with different content
           </h1>

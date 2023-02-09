@@ -25,7 +25,7 @@ function Modal(props) {
       id="container"
     >
       <div className=" flex justify-center">
-        <div className="relative self-center mt-36 place-items-center bg-white p-10 rounded-2xl">
+        <div className="relative self-center mt-36 place-items-center bg-white p-5 rounded-2xl">
           <div className="p-5 ">
             <button
               className="absolute top-0 right-0 hover:bg-gray-300 rounded-md p-2 text-lg"
