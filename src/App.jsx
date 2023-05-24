@@ -61,8 +61,8 @@ function App() {
         />
         <Card
           imgAlt="London"
-          href="https://www.sas.se/?ds_rl=1250159&gclid=CjwKCAiAioifBhAXEiwApzCztvajIaHt2P2zH6u-mz3t1rDaJ-KPs5H-mCSS738I1psNUjaIMevDgxoCY7MQAvD_BwE&gclsrc=aw.ds"
-          imgSrc="https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTYyNDg1MjE3MTI1Mjc5Mzk4/topic-london-gettyimages-760251843-promo.jpg"
+          href="https://www.momondo.se/flights?lang=sv&skipapp=true&gclid=CjwKCAjw67ajBhAVEiwA2g_jEPeo1S2kqh-cHK27cH75R6NKAQ0Crd1o4g9lpmS_bLzHz6abMu11DRoC4FMQAvD_BwE"
+          imgSrc="./public/london.jpg"
         />
       </div>
       <div>
