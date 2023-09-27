@@ -57,7 +57,7 @@ function App() {
         <Card
           imgAlt="A Car"
           href="https://www.google.se/"
-          imgSrc="https://www.pr-bild-award.de/site-prba/assets/files/1/prba-teaser.jpg"
+          imgSrc={"Google.png"}
         />
         <Card
           imgAlt="London"
@@ -82,8 +82,8 @@ function App() {
             <Modal.Header>This is a Modal</Modal.Header>
             <Modal.Body>
               <p>
-                This is a Card I don't know what to write here :) <br />
-                BUT is Green your favorite Color?
+                <br />
+                Is Green your favorite Color?
               </p>
             </Modal.Body>
             <Modal.Footer></Modal.Footer>

@@ -5,7 +5,7 @@ function Card(props) {
 
   return (
     <div className="flex justify-center p-10 ">
-      <a href={href}>
+      <a target="_blank" href={href}>
         <div className="flex flex-col p-10 justify-center border border-gray-200 rounded-md shadow-xl">
           <img className="abolute inset-x-0 w-80 " src={imgSrc} alt={imgAlt} />
           <h5 className="flex font-mono text-xl mt-2 tex text-gray-600 ">
